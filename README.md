@@ -2,7 +2,7 @@
 
 ## Contact: [Linkedin](https://www.linkedin.com/in/giuseppe-ferrara-link/)
 
-## Contents:
+### Contents:
   - ### [Projects](#projects)
   - ### [Contributions/Pull request](#contributions)
   - ### [Programming](#programming)
