@@ -8,7 +8,7 @@
  <summary>Projects</summary>
  
  <ul>
-  <li><a href="https://github.com/Girr-src/Folder">Folder</a></li>
+  <li><a href="https://github.com/Girr-src/Folder">Folder [alt]</a></li>
  </ul>
 
 </details>
