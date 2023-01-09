@@ -4,13 +4,17 @@
 
 ### Contents:
 
-<ul> 
-  <details>
+ <details>
   <summary>Projects</summary>
-    <ul>
-      <li>progetto uno</li>
-    </ul>
- </ul>
+  <ul>
+    <li>Ciao</li>
+   </ul>
+   
+      
+  
+  </details>
+
+
 
 
 <!--
