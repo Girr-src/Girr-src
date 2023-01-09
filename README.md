@@ -3,14 +3,17 @@
 ## Contact: [Linkedin](https://www.linkedin.com/in/giuseppe-ferrara-link/)
 
 ### Contents:
-<a href=""><b>Projects</b></a>
+<ul>
+  <li>Ciao</li>
+  <li>Hello</li>
+</ul>
 
 
   - [Projects](#projects)
   - [Contributions (Pull requests)](#contributions)
   - [Programming](#programming)
   - [Other](#other)
-  
+ 
 
 
 
