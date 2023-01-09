@@ -2,7 +2,7 @@
 
 ## Contact: [Linkedin](https://www.linkedin.com/in/giuseppe-ferrara-link/)
 
-<h3><li>Contents</h3>
+<h3>Contents</h3>
 
 
 
