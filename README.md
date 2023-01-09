@@ -4,7 +4,7 @@
 
 ### Contents:
   - [Projects](#projects)
-  - [Contributions/Pull request](#contributions)
+  - [Contributions/(Pull requests)](#contributions)
   - [Programming](#programming)
   - [Other](#other)
   
