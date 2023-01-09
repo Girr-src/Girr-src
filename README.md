@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-## Contact: [Linkedin](https://www.linkedin.com/in/giuseppe-ferrara-link/)
+<h2>Contact:<a href="https://www.linkedin.com/in/giuseppe-ferrara-link/>Linkedin</a></h2>
 
 <h3>Contents</h3>
 
