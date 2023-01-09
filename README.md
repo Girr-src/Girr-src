@@ -5,7 +5,7 @@
 ### Contents:
 - [Projects](#project)
 - [Contributions](#contributions)
-- [Coding](#coding)
+- [Programming](#coding)
 - [Other](#other)
 
 
