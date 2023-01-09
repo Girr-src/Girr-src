@@ -3,11 +3,15 @@
 ## Contact: [Linkedin](https://www.linkedin.com/in/giuseppe-ferrara-link/)
 
 ## Contents:
-  - [Projects](#project)
-  - [Contributions](#contributions)
-  - [Programming](#programming)
-  - [Other](#other)
 
+ciao
+
+## ciao
+ciao
+
+## ciao 
+
+ciao
 
 
 
