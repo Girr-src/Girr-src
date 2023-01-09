@@ -4,10 +4,10 @@
 
 <div>
 <h3>Contents</h3>
-  <li>
-    <ul>Ciao</ul>
-    <ul>Hello</ul>
-  </li>
+  <ul>
+    <li>Ciao</li>
+    <li>Hello</li>
+  </ul>
 
 
 
