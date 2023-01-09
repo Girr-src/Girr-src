@@ -1,19 +1,15 @@
-<div align="center">
+<h1 align="center">Hi there 👋</h1>
   
-# Hi there 👋
-
-</div>
-
-
 ## [Linkedin](https://www.linkedin.com/in/giuseppe-ferrara-link/)
 
-<hr>
+#### Contents
+<ul>
+  <li>Projects</li>
+  <li>Contributions</li>
+  <li>Coding</li>
+  <li>Other</li>
+</ul>
 
-<div align="center">
-
-## MY PROJECTS
-  
-<div align="center">
 
 
 
