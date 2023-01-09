@@ -7,7 +7,9 @@
 <ul> 
   <details>
   <summary>Projects</summary>
-  <li>progetto uno</li>
+    <ul>
+      <li>progetto uno</li>
+    </ul>
  </ul>
 
 
