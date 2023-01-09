@@ -13,13 +13,25 @@
 
 </details>
 
+
+<!-- ============================================== -->
+
+
 <details>
  <summary>Contributions (Pull requests)</summary>
 </details>
 
+
+<!-- ============================================== -->
+
+
 <details>
  <summary>Programming</summary>
 </details>
+
+
+<!-- ============================================== -->
+
 
 <details>
  <summary>Other</summary>
